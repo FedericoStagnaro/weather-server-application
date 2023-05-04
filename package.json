@@ -1,7 +1,7 @@
 {
-  "name": "template-typescript-application",
+  "name": "weather-application",
   "version": "1.0.0",
-  "description": "",
+  "description": "Develop microservices with Node.js, we'll use the OpenWeather API service",
   "main": "index.js",
   "scripts": {
     "start": "node ./dist/index.js",

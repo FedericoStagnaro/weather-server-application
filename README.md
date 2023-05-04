@@ -1,10 +1,11 @@
-# Template-TypeScript-Application
+# Wheater-Server-Application
 
 ### Technologies
    - Typescript
    - Nodemon
    - Eslint
    - NodeJS
+   - OpenWheather API
    
 ### Step-by-step
   1. Clone repository `git clone https://github.com/FedericoStagnaro/Template-TypeScript-Application.git` 
